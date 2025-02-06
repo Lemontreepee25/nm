@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "nm": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\osbur\\OneDrive\\Attachments\\Desktop",
+      "remoteDebugEnabled": true
+    }
+  }
+}
